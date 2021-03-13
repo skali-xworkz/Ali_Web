@@ -1,0 +1,91 @@
+.head-title{
+    text-align: center; 
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    margin-top: 90px;
+   font-size: 55px;
+}
+
+.container{
+  
+    /* text-align: center; */
+    /* margin-top: 110px; */
+    /* width: 60%; */
+    max-width: 700px ;
+    margin: 0 auto;
+    margin-top: 10px;
+    box-shadow: chartreuse;
+}
+#submit_box{
+    /* border: 1px solid; */
+     padding: 10px;
+    box-shadow: 5px ;
+}
+.container header{
+    height: 150px;
+    background-color: rgb(2, 2, 73);
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    padding: 40px;
+    position: relative;
+}
+.section-title{
+    text-transform:capitalize;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.icon{
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    border-radius: 10px;
+    font-size: 3.2rem;
+    cursor: pointer;
+    border-color: transparent;
+}
+form{
+    max-width: 400px;
+    margin: 50px auto;
+    color: darkred
+}
+.form-felid label{
+    text-transform: capitalize;
+}
+.form-input{
+    width: 400px;
+    display: block;
+    border: 0;
+    border-bottom: 2px solid gray;
+    padding: 12px 0;
+    padding-top: 25px;
+    color: black;
+    
+    
+}
+.btn{
+    border-radius: 50px;
+    height: 50px;
+    font-size: 25px;
+  
+    background-color: darkblue;
+    color: white;
+    text-transform: capitalize;
+   
+}
+.button{
+    /*  
+    border-radius: 50px;
+    cursor: pointer;
+     margin: 100px;
+    width: 150px;  */
+    text-align: center;
+    padding: 12px 0;
+    padding-top: 30px;
+   
+    
+
+}
+/* @media */
